@@ -1,7 +1,1 @@
-git 
-cd floder\directory
-git add filename.txt
-git status
-git commit -m "posledovatelnost' zapisi na fayl i sohraneniya"
-git push
-789. - изменения в браузере
+
