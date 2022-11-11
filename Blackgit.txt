@@ -4,3 +4,5 @@ git add filename.txt
 git status
 git commit -m "posledovatelnost' zapisi na fayl i sohraneniya"
 git push
+правой кнопкой в папке фала - Git bash here
+в гитбаше пишем git status  а потом пишем cat имя файла
