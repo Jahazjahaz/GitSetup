@@ -12,6 +12,7 @@ git log - история коммитов git log --author nickname
 git show  6446c67239a2b35e22f87e7 показать детали коммита
 git blame супер история изменений файла
 git blame filename | grep 123 -узнать кто писал строку
-=======
+git diff - тоже просмотр изменений
+echo "Add line" >> Blackgit.txt - добавить строчку в конце файла
 
->>>>>>> 9fb67c4cf12419f048b1e9465cc1a49d67aa80fd
+Add line
