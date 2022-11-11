@@ -1,0 +1,4 @@
+git 
+cd floder\directory
+git add filename.txt
+git status
