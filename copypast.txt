@@ -16,7 +16,7 @@ git diff - тоже просмотр изменений
 echo "Add line" >> Blackgit.txt - добавить строчку в конце файла
 ls - показать файлы в директории
 echo "new line" >> new.file - создать новый файл впапке
-git reset HEAD`1 - откатить изменения
+git reset HEAD~1 - откатить изменения
 
 
 Add line
